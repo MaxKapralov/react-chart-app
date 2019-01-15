@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: grid;
+  width: 30%;
+}
+.input-item {
+  height: 70%;
+}
+.controls {
+  display: grid;
+  grid-row-gap: 10%;
+}
+.main-container {
+  flex-grow: 1;
+}
